@@ -30,7 +30,7 @@ This Bash script created by Samstar777, checks the status of the DoNotDisturb fe
 
 5. If script runs correctly when ran locally on a mac than create an Extension Attribute on a mac
 
-6. Input Type "Script" and add the Focus mode settings script and Save Extension Attribute
+6. Input Type "Script" and add the FocusModeSettings script and Save Extension Attribute
 
 ## Script Details
 
